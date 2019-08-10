@@ -1,0 +1,4 @@
+{
+    "rubyTestExplorer.logpanel": true,
+    "rubyTestExplorer.testFramework": "rspec"
+}
